@@ -2,7 +2,7 @@
 
 Speaker Slides: http://bit.ly/2HcHCAR
 
-##What is Angular Nights Series?
+## What is Angular Nights Series?
 
 Angular Nights Series is a Friday night activity to learn and code Angular web apps.
 It is specifically outlined to those people who wants to involve themselves to the power of Angular 
